@@ -1,0 +1,19 @@
+html {
+  background-image: url(http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/nebula_brown.png);
+  background-color: rosybrown;
+}
+
+body {
+  background-image: url(http://commondatastorage.googleapis.com/codeskulptor-demos/riceracer_assets/img/backdrop.jpg);
+  background-color: gray;
+  padding: 30px;
+  border: 10px solid blue;
+  border-block-color: yellow;
+  border-block-end-color: red;
+  border-style:ridge;
+  margin: 80px 40px;
+}
+
+.button {
+  color:  green;
+}
